@@ -80,9 +80,9 @@ FastAPI · Flask · REST Microservices · Async Processing
 
 ---
 
-## GitHub Stats
+## GitHub Activity (Streaks)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JS12540&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=JS12540)
 
 ---
 
