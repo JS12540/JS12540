@@ -50,7 +50,7 @@ PyPI: https://pypi.org/project/concall-parser
 ## Technical Stack
 
 ### Languages
-C++ · Python · SQL · JavaScript
+Go · Python · SQL · JavaScript
 
 ### ML & AI
 PyTorch · TensorFlow · scikit-learn · Hugging Face Transformers  
@@ -88,5 +88,5 @@ FastAPI · Flask · REST Microservices · Async Processing
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/jay-shah  
+LinkedIn: [https://www.linkedin.com/in/jay-shah](https://www.linkedin.com/in/jay-shah-4a4829209/)  
 Email: jayshah0726@gmail.com
